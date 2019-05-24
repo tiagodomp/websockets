@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "comunication for APIs websockets",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.9.0",
+    "ws": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagodomp/websockets.git"
+  },
+  "author": "Tiago Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagodomp/websockets/issues"
+  },
+  "homepage": "https://github.com/tiagodomp/websockets#readme"
+}
